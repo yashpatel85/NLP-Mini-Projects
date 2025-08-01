@@ -1,0 +1,4 @@
+John Doe
+Experienced Python Developer with knowledge in machine learning, Flask, Docker, and PostgreSQL. 
+Worked on deploying ML models and automating workflows. 
+Proficient in Git, Linux, and RESTful APIs.
